@@ -1,36 +1,12 @@
-<div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
-</div>
+<h1 align="left">👋 Hi, I'm Prashant Burde</h1>
 
 ###
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
+<h4 align="left">I'm Fullstack Developer based in Nagpur, Maharashtra<br><br>Prashant Burde is a skilled full-stack developer with expertise in React.js, Node.js, Express.js, and MongoDB. He has hands-on experience in AI, facial recognition, and automation, demonstrated through projects like an AI Voice Assistant and a Face Recognition Attendance System.<br><br>During his internship at PERLA IT, he developed an automated attendance system using facial recognition, improving accuracy and efficiency.<br><br>Prashant holds an MCA from G.H. Raisoni University and has a strong foundation in web development, databases, and real-time applications. Passionate about AI-driven solutions, he continues to explore and innovate in the tech space. 🚀</h4>
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=prashu-014.prashu-014&"  />
-</div>
-
-###
-
-<h1 align="center">hey there 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Prashant Burde from Nagpur.<br><br>- 🔭 I’m working as Front-end developer<br>- 📚 I'm currently learning React<br>- ⚡ In my free time I enjoy</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
+<h2 align="left">Frontend devlopement</h2>
 
 ###
 
@@ -43,24 +19,61 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h2 align="left">Backend development</h2>
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=prashu-014&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
 </div>
 
 ###
 
+<h2 align="left">Other</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
+</div>
+
+###
+
+<h2 align="left">Other things</h2>
+
+###
+
+<p align="left">👨‍👩‍👧‍👦 Spending Time with Family & Friends – Loves being with loved ones, enjoying outings, talks, and fun moments together.<br><br>🌍 Exploring New Places – Enjoys visiting temples, gardens, and beautiful spots to see and experience new things.<br><br>📸 Passionate About Photography – Loves taking pictures of special moments, nature, and interesting scenes.</p>
+
+###
+
+<h2 align="left">Reach out to me on</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/prashantburde014/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
